@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/python3.10/site-packages",
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package/lib/python3.10/site-packages",
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_interfaces/local/lib/python3.10/dist-packages",
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage/lib/python3.10/site-packages",
+        "/home/marcel/ros2_ws/build/my_robot_controller",
+        "/home/marcel/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/python3.10/site-packages",
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package/lib/python3.10/site-packages",
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_interfaces/local/lib/python3.10/dist-packages",
+        "/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage/lib/python3.10/site-packages",
+        "/home/marcel/ros2_ws/build/my_robot_controller",
+        "/home/marcel/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

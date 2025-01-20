@@ -1,0 +1,23 @@
+[0.306s] Invoking command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/src/g2o_package': PYTHONPATH=/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/g2o_package build --build-base /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/build install --record /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/install.log --single-version-externally-managed install_data
+[0.426s] running egg_info
+[0.427s] writing ../../build/g2o_package/g2o_package.egg-info/PKG-INFO
+[0.427s] writing dependency_links to ../../build/g2o_package/g2o_package.egg-info/dependency_links.txt
+[0.427s] writing entry points to ../../build/g2o_package/g2o_package.egg-info/entry_points.txt
+[0.427s] writing requirements to ../../build/g2o_package/g2o_package.egg-info/requires.txt
+[0.427s] writing top-level names to ../../build/g2o_package/g2o_package.egg-info/top_level.txt
+[0.428s] reading manifest file '../../build/g2o_package/g2o_package.egg-info/SOURCES.txt'
+[0.429s] writing manifest file '../../build/g2o_package/g2o_package.egg-info/SOURCES.txt'
+[0.429s] running build
+[0.429s] running build_py
+[0.429s] running install
+[0.429s] running install_lib
+[0.430s] running install_data
+[0.430s] creating /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/share/g2o_package/launch
+[0.430s] copying launch/g2o_package_launch.py -> /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/share/g2o_package/launch
+[0.430s] running install_egg_info
+[0.431s] removing '/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/python3.10/site-packages/g2o_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.431s] Copying ../../build/g2o_package/g2o_package.egg-info to /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/python3.10/site-packages/g2o_package-0.0.0-py3.10.egg-info
+[0.432s] running install_scripts
+[0.443s] Installing g2o_node script to /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/g2o_package
+[0.443s] writing list of installed files to '/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/install.log'
+[0.454s] Invoked command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/src/g2o_package' returned '0': PYTHONPATH=/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/install/g2o_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/g2o_package build --build-base /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/build install --record /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/ros2_ws/build/g2o_package/install.log --single-version-externally-managed install_data
