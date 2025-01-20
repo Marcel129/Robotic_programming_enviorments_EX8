@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/g2o_package/g2o_package.egg-info/PKG-INFO
+../../../build/g2o_package/g2o_package.egg-info/SOURCES.txt
+../../../build/g2o_package/g2o_package.egg-info/dependency_links.txt
+../../../build/g2o_package/g2o_package.egg-info/entry_points.txt
+../../../build/g2o_package/g2o_package.egg-info/requires.txt
+../../../build/g2o_package/g2o_package.egg-info/top_level.txt
+../../../build/g2o_package/g2o_package.egg-info/zip-safe
+g2o_package/__init__.py
+g2o_package/g2o_node.py
+launch/g2o_package_launch.py
+resource/g2o_package
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,22 @@
+running egg_info
+writing ../../../build/g2o_package/g2o_package.egg-info/PKG-INFO
+writing dependency_links to ../../../build/g2o_package/g2o_package.egg-info/dependency_links.txt
+writing entry points to ../../../build/g2o_package/g2o_package.egg-info/entry_points.txt
+writing requirements to ../../../build/g2o_package/g2o_package.egg-info/requires.txt
+writing top-level names to ../../../build/g2o_package/g2o_package.egg-info/top_level.txt
+reading manifest file '../../../build/g2o_package/g2o_package.egg-info/SOURCES.txt'
+writing manifest file '../../../build/g2o_package/g2o_package.egg-info/SOURCES.txt'
+running build
+running build_py
+copying g2o_package/g2o_node.py -> /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/build/g2o_package/build/lib/g2o_package
+running install
+running install_lib
+copying /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/build/g2o_package/build/lib/g2o_package/g2o_node.py -> /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/install/g2o_package/lib/python3.10/site-packages/g2o_package
+byte-compiling /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/install/g2o_package/lib/python3.10/site-packages/g2o_package/g2o_node.py to g2o_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/install/g2o_package/lib/python3.10/site-packages/g2o_package-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../build/g2o_package/g2o_package.egg-info to /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/install/g2o_package/lib/python3.10/site-packages/g2o_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing g2o_node script to /home/marcel/studies/2_sem_mgr/RPE_lab/EX8/install/g2o_package/lib/g2o_package
+writing list of installed files to '/home/marcel/studies/2_sem_mgr/RPE_lab/EX8/build/g2o_package/install.log'

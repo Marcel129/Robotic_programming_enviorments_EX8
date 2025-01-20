@@ -1,0 +1,3 @@
+[console_scripts]
+g2o_node = g2o_package.g2o_node:main
+

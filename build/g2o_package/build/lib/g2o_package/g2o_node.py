@@ -7,7 +7,6 @@ class PoseGraphOptimizer(Node):
     def __init__(self):
         super().__init__('pose_graph_optimizer')
         self.optimizer = self.create_optimizer()
-        
         self.add_vertices_and_edges()
         self.optimize()
         self.print_optimized_poses()
@@ -41,13 +40,14 @@ class PoseGraphOptimizer(Node):
             v.set_estimate(np.array(position))
             self.optimizer.add_vertex(v)
 
+        # Define constraints (edges)
         constraints = [
-            (0, 1, (2.1, 0, 0)), # c1
-            (1, 2, (1.9, 0, 0)), # c2
-            (0, 3, (0.5, 1.0)),  # c_{01}
-            (1, 3, (-1.5, 1.0)), # c_{11}
-            (1, 4, (1.0, -1.0)), # c_{12}
-            (2, 4, (-1.0, -1.0)) # c_{22}
+            (0, 1, (2.1, 0, 0)),    # c1
+            (1, 2, (1.9, 0, 0)),    # c2
+            (0, 3, (0.5, 1.0)),     # c_{01}
+            (1, 3, (-1.5, 1.0)),    # c_{11}
+            (1, 4, (1.0, -1.0)),    # c_{12}
+            (2, 4, (-1.0, -1.0))    # c_{22}
         ]
 
         information_matrix = np.identity(3)
